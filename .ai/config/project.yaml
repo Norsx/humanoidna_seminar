@@ -1,0 +1,5 @@
+name: "Humanoidna robotika i biomimetički sustavi"
+type: "seminar"              # seminar | thesis | paper | homework
+latex_format: "fsb-seminar"  # fsb-seminar | fsb-thesis | fsb-paper
+rag_mode: "none"             # none | cloud | local
+brain_mode: "global"         # none | global
